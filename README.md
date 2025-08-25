@@ -1,4 +1,4 @@
-# Data Sales Online Visualization with Interactive Dashboard in Tableu
+# Data Sales Online Visualization with Interactive Dashboard in Tablaeu
 
 ## Project Objective
 The goal in this project is to build an interactive dashboard and focus on the implementing advanced features for in depth anlysis.
